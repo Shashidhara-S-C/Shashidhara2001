@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Shashidhara2001
-- 👀 I’m interested in creating innovative stuffs
-- 🌱 I’m currently learning to code 
+- 👋 Hi, I’m @Shashidhara S C
+- 📚 Master student(IT) at RVCE Bangalore
+- 👀 I’m interested in creating innovative stuff
+- 🌱 I’m currently learning to code
 - 📫 How to reach me shashidharsc577@gmail.com
 
 <!---
